@@ -5,7 +5,7 @@ body {
     padding-top: 53px;
     font-family: 'Roboto', sans-serif;
 }
-.header {    // border: 1px solid red;
+.header {    
     max-width: 1230px;
     width: 90%;
     margin: auto;
@@ -13,7 +13,6 @@ body {
     justify-content: space-between;
 }
 .list {
-    // border: 1px solid blue;
     margin: 0; //убираем отступы сверху и снизу текста меню
     padding: 0; // убираем внутренний отступ
     display: flex;
@@ -135,9 +134,6 @@ body {
     text-decoration: none;
 }
 .button {
-    //display: flex;
-    //align-items: center; //по горизонтали по центру
-    //justify-content: center; //по вертикали по центру
     color: #FFFFFF;
     min-width: 260px;
     padding: 20px; //min-height: 60px;
